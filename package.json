@@ -2,7 +2,7 @@
   "name": "doodaydate",
   "version": "1.0.0",
   "description": "Display date format",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "test"
   },
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/andreaharris-go/doodaydate/issues"
   },
-  "homepage": "https://github.com/andreaharris-go/doodaydate#readme"
+  "homepage": "https://github.com/andreaharris-go/doodaydate#readme",
+  "directories": {
+    "test": "test"
+  }
 }
